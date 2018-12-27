@@ -1,0 +1,1 @@
+web: gunicorn ip_locater:'create_app()'
